@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\vehiculoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\vehiculoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\vehiculoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\vehiculoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\vehiculoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\vehiculoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\vehiculoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\vehiculoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\vehiculoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\vehiculoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\marcas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\marcas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\marcas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\marcas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\marcas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\marcas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\marcas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\marcas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\views\\marcas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:views\\marcas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\migrations\\20240905175307_ventasparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:migrations\\20240905175307_ventasparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\repository\\manager\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:repository\\manager\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\repository\\manager\\vehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:repository\\manager\\vehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\repository\\manager\\marcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:repository\\manager\\marcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\repository\\interface\\ivehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:repository\\interface\\ivehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\repository\\interface\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:repository\\interface\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\repository\\interface\\imarcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:repository\\interface\\imarcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\controllers\\vehiculoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:controllers\\vehiculoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\.net 2\\ventasparcial\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F4F98A-49FF-47B5-AB2E-8798AB375D2F}|VentasParcial.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Ventas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Ventas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:41:56.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Ventas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Ventas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:42:01.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Ventas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Ventas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:42:06.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:42:17.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:42:32.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T19:42:48.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:43:40.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:41:48.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Vehiculoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Vehiculoes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Vehiculoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:41:22.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Vehiculoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Vehiculoes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Vehiculoes\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:41:11.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Vehiculoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Vehiculoes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Vehiculoes\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:41:03.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Vehiculoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Vehiculoes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Vehiculoes\\Delete.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:40:56.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Vehiculoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Vehiculoes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Vehiculoes\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:40:31.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Marcas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Marcas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Marcas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Marcas\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:37:34.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "Models\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:34:39.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Models\\Marca.cs",
+              "RelativeDocumentMoniker": "Models\\Marca.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Models\\Marca.cs",
+              "RelativeToolTip": "Models\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:34:25.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:34:08.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:39:05.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Marcas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Marcas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Marcas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Marcas\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:38:48.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Marcas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Marcas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Marcas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Marcas\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:38:43.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Marcas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Marcas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Marcas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Marcas\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:38:33.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Marcas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Marcas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Views\\Marcas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Marcas\\Delete.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:38:19.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MarcasController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Controllers\\MarcasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MarcasController.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Controllers\\MarcasController.cs",
+              "RelativeToolTip": "Controllers\\MarcasController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:30:06.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Models\\Venta.cs",
+              "RelativeToolTip": "Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:34:49.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240905175307_VentasParcial.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Migrations\\20240905175307_VentasParcial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240905175307_VentasParcial.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Migrations\\20240905175307_VentasParcial.cs",
+              "RelativeToolTip": "Migrations\\20240905175307_VentasParcial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:53:08.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Manager\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Manager\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Manager\\VentaRepository.cs",
+              "RelativeToolTip": "Repository\\Manager\\VentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:36:30.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:32:52.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VehiculoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Manager\\VehiculoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Manager\\VehiculoRepository.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Manager\\VehiculoRepository.cs",
+              "RelativeToolTip": "Repository\\Manager\\VehiculoRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:36:10.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MarcaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Manager\\MarcaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Manager\\MarcaRepository.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Manager\\MarcaRepository.cs",
+              "RelativeToolTip": "Repository\\Manager\\MarcaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:35:38.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IVehiculoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Interface\\IVehiculoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IVehiculoRepository.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Interface\\IVehiculoRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IVehiculoRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:35:16.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Interface\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IVentaRepository.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Interface\\IVentaRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IVentaRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:35:24.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IMarcaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Interface\\IMarcaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IMarcaRepository.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Repository\\Interface\\IMarcaRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IMarcaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:35:06.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:28:52.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VehiculoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Controllers\\VehiculoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehiculoesController.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Controllers\\VehiculoesController.cs",
+              "RelativeToolTip": "Controllers\\VehiculoesController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:30:58.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\.Net 2\\VentasParcial\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:32:33.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
